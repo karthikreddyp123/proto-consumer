@@ -1,0 +1,2 @@
+io/pact/example/grpc/consumer/PactConsumerTest.java
+ io.pact.example.grpc.consumer.PactConsumerTest
